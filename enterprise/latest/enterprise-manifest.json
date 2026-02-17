@@ -1,0 +1,12 @@
+{
+  "generated_at_utc": "2026-02-17T00:20:41Z",
+  "source_repo_commit": "0668cc28eeb0892fc1c083289d1aecc9d784ac4f",
+  "application_id": "com.prado.treeviewer",
+  "title": "Prado Overlays",
+  "artifacts": [
+    "app-release.apk",
+    "app-release.aab",
+    "SHA256SUMS.txt"
+  ],
+  "intended_channel": "Managed Google Play private app upload"
+}

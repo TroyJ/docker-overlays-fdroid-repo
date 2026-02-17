@@ -1,0 +1,1 @@
+{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--create-metadata"],"disabled":[],"endTimestamp":1771286560618,"failedBuilds":{},"noPackages":["com.prado.treeviewer"],"startTimestamp":1771286556000,"subcommand":"update"}
